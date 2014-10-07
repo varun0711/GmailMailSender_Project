@@ -1,0 +1,18 @@
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.addcon.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.compose.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.inbox1.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.LogIn.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.Menu.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.Properties.Resources.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.Sent.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail_Sender.signup.resources
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail Sender.csproj.GenerateResource.Cache
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\bin\Debug\abcd.mdf
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\bin\Debug\abcd_log.ldf
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\bin\Debug\GmailMail Sender.exe.config
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\bin\Debug\GmailMail Sender.exe
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\bin\Debug\GmailMail Sender.pdb
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\bin\Debug\EAGetMail.dll
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail Sender.exe
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail Sender.pdb
+C:\Users\Varun\Documents\Visual Studio 2012\Projects\GmailMail Sender\GmailMail Sender\obj\Debug\GmailMail Sender.csprojResolveAssemblyReference.cache
